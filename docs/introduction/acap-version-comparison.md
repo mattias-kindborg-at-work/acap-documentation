@@ -3,6 +3,7 @@ layout: page
 parent: Introduction
 title: ACAP version comparison
 nav_order: 3
+redirect_to: http://localhost:3000/acap/introduction/acap-version-comparison
 ---
 
 # ACAP version comparisons

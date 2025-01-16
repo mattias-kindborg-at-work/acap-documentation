@@ -4,6 +4,7 @@ grand_parent: Get started
 parent: Set up developer environment
 title: Pre-requisites
 nav_order: 1
+redirect_to: http://localhost:3000/acap/get-started/set-up-developer-environment/pre-requisites
 ---
 
 # Pre-requisites

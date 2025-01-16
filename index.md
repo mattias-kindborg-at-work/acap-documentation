@@ -2,6 +2,7 @@
 layout: default
 title: ACAP documentation
 nav_order: 1
+redirect_to: http://localhost:3000/acap/
 ---
 
 # ACAP documentation

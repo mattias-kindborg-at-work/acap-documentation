@@ -3,6 +3,7 @@ layout: page
 parent: FAQ
 title: Deployment
 nav_order: 3
+redirect_to: http://localhost:3000/acap/faq/deployment
 ---
 
 <!-- omit in toc -->

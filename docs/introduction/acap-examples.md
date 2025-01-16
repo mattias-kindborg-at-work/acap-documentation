@@ -3,6 +3,7 @@ layout: page
 parent: Introduction
 title: ACAP examples
 nav_order: 5
+redirect_to: http://localhost:3000/acap/introduction/acap-examples
 ---
 
 # ACAP examples

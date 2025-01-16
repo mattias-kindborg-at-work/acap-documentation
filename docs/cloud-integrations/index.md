@@ -2,6 +2,7 @@
 layout: page
 title: Cloud integrations
 nav_order: 9
+redirect_to: http://localhost:3000/acap/cloud-integrations/
 ---
 
 # Cloud integrations

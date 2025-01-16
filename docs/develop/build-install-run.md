@@ -3,6 +3,7 @@ layout: page
 parent: Develop ACAP applications
 title: Build, install, run
 nav_order: 3
+redirect_to: http://localhost:3000/acap/develop/build-install-run
 ---
 
 # Build, install, run

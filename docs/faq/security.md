@@ -3,6 +3,7 @@ layout: page
 parent: FAQ
 title: Security
 nav_order: 2
+redirect_to: http://localhost:3000/acap/faq/security
 ---
 
 <!-- omit in toc -->

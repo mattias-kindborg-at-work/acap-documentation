@@ -4,6 +4,7 @@ parent: Get started
 grand_parent: ACAP SDK version 3
 title: Compatibility
 nav_order: 2
+redirect_to: http://localhost:3000/acap/acap-sdk-version-3/get-started/compatibility
 ---
 # Compatibility
 

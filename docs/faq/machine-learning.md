@@ -3,6 +3,7 @@ layout: page
 parent: FAQ
 title: Machine learning
 nav_order: 1
+redirect_to: http://localhost:3000/acap/faq/machine-learning
 ---
 
 <!-- omit in toc -->

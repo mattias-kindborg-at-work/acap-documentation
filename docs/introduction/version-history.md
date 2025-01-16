@@ -3,6 +3,7 @@ layout: page
 parent: Introduction
 title: Version history
 nav_order: 2
+redirect_to: http://localhost:3000/acap/introduction/version-history
 ---
 
 # Version history

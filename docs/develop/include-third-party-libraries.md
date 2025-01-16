@@ -3,6 +3,7 @@ layout: page
 parent: Develop ACAP applications
 title: Include third party libraries
 nav_order: 4
+redirect_to: http://localhost:3000/acap/develop/include-third-party-libraries
 ---
 
 # Include third party libraries

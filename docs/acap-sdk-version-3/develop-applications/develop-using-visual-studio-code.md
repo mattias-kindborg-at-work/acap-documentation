@@ -4,6 +4,7 @@ parent: Develop applications
 grand_parent: ACAP SDK version 3
 title: Develop using Visual Studio Code
 nav_order: 5
+redirect_to: http://localhost:3000/acap/acap-sdk-version-3/develop-applications/develop-using-visual-studio-code
 ---
 # Develop using Visual Studio Code
 

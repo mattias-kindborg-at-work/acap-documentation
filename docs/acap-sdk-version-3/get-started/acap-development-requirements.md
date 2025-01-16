@@ -4,6 +4,7 @@ parent: Get started
 grand_parent: ACAP SDK version 3
 title: ACAP development requirements
 nav_order: 1
+redirect_to: http://localhost:3000/acap/acap-sdk-version-3/get-started/acap-development-requirements
 ---
 # ACAP development requirements
 

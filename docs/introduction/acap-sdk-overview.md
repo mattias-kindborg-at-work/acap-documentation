@@ -3,6 +3,7 @@ layout: page
 parent: Introduction
 title: ACAP SDK overview
 nav_order: 4
+redirect_to: http://localhost:3000/acap/introduction/acap-sdk-overview
 ---
 
 # ACAP SDK overview

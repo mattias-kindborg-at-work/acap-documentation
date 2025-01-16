@@ -3,6 +3,7 @@ layout: page
 parent: Introduction
 title: What is ACAP?
 nav_order: 1
+redirect_to: http://localhost:3000/acap/introduction/what-is-acap
 ---
 
 # What is ACAP?

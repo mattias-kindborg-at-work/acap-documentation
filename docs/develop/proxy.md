@@ -3,6 +3,7 @@ layout: page
 parent: Develop ACAP applications
 title: Proxy
 nav_order: 11
+redirect_to: http://localhost:3000/acap/develop/proxy
 ---
 
 # Proxy

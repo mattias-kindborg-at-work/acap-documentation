@@ -3,6 +3,7 @@ layout: page
 parent: Service for partners
 title: ACAP Service Portal
 nav_order: 1
+redirect_to: http://localhost:3000/acap/service/acap-service-portal
 ---
 
 # ACAP Service Portal

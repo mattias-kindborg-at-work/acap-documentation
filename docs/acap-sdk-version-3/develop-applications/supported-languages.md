@@ -4,6 +4,7 @@ parent: Develop applications
 grand_parent: ACAP SDK version 3
 title: Supported languages
 nav_order: 6
+redirect_to: http://localhost:3000/acap/acap-sdk-version-3/develop-applications/supported-languages
 ---
 # Supported languages
 

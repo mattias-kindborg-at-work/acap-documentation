@@ -3,6 +3,7 @@ layout: page
 parent: Develop ACAP applications
 title: Migrating an application from static to dynamic user
 nav_order: 10
+redirect_to: http://localhost:3000/acap/develop/user-selection
 ---
 
 # Migrating an application from static to dynamic user

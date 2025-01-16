@@ -3,6 +3,7 @@ layout: acap_sdk_version_3
 parent: ACAP SDK version 3
 title: Introduction
 nav_order: 1
+redirect_to: http://localhost:3000/acap/acap-sdk-version-3/introduction/
 ---
 # Introduction
 

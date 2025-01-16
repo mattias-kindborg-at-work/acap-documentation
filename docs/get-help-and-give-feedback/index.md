@@ -2,6 +2,7 @@
 layout: page
 title: Get help & give feedback
 nav_order: 12
+redirect_to: http://localhost:3000/acap/get-help-and-give-feedback/
 ---
 
 # Get help & give feedback

@@ -3,6 +3,7 @@ layout: default
 title: Computer Vision APIs
 parent: API
 nav_order: 2
+redirect_to: http://localhost:3000/acap/api/computer-vision-sdk-apis
 ---
 
 # Computer Vision APIs
