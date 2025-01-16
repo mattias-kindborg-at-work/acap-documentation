@@ -8,10 +8,10 @@ title: ACAP documentation
 description: >
   ACAP documentation is the point of reference for ACAP application development.
 
-url: https://axiscommunications.github.io # The base hostname & protocol
+url: https://mattias-kindborg-at-work.github.io # The base hostname & protocol
 baseurl: /acap-documentation # The subpath of your site
 
-github_username:  AxisCommunications
+github_username:  mattias-kindborg-at-work
 copyright_name: Axis Communications AB
 copyright_footer: "&copy;<script>new Date().getFullYear()>document.write(new Date().getFullYear());</script> Axis Communications AB. All rights reserved. AXIS COMMUNICATIONS, AXIS, ARTPEC and VAPIX are registered trademarks of Axis AB in various jurisdictions, and you are not granted any license to use them. All other trademarks are the property of their respective owners."
 
@@ -71,7 +71,7 @@ search_enabled: true
 heading_anchors: true
 
 # Google Analytics Tracking
-ga_tracking: UA-266925-56
+# ga_tracking: UA-266925-56
 
 # Back to top link
 back_to_top: true
