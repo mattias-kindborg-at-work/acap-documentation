@@ -54,6 +54,7 @@ kramdown:
 plugins:
   - jekyll-remote-theme
   - jekyll-sitemap
+  - jekyll-redirect-from
 
 # ------------------------------------------------------------------------------
 # Theme settings
